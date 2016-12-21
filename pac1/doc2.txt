@@ -1,0 +1,13 @@
+bla bla bla
+
+<!-- @traceop:regra1 -->
+conteudo da regra 2.1, dizendo x
+<!-- @traceclose -->
+
+ble ble ble
+
+<!-- @traceop:regra2 -->
+conteudo da regra 2.2, dizendo y
+<!-- @traceclose -->
+
+bli bli bli
